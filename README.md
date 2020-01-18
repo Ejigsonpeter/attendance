@@ -16,7 +16,7 @@ Student Enrollment
 ![enrollment](a3.JPG)
 
 Attendance
-![attendance](a2.JPG
+![attendance](a2.JPG)
 
 
 
