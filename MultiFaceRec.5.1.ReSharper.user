@@ -1,0 +1,175 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="this" priority="9" />
+      <Item value="new" priority="10" />
+      <Item value="RegisterFace`0" priority="1" />
+      <Item value="Attendance`0" priority="1" />
+      <Item value="dynamic" priority="12" />
+      <Item value="public" priority="5" />
+      <Item value="StudentTable`0" priority="3" />
+      <Item value="base" priority="1" />
+      <Item value="bool" priority="1" />
+      <Item value="Insert`0" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="stud" priority="0" />
+      <Item value="null" priority="3" />
+      <Item value="true" priority="1" />
+      <Item value="false" priority="2" />
+      <Item value="StudentTable" priority="0" />
+      <Item value="student" priority="0" />
+      <Item value="studentRecord" priority="2" />
+      <Item value="textBoxFirstName" priority="0" />
+      <Item value="textBoxLastName" priority="0" />
+      <Item value="MessageBox`0" priority="2" />
+      <Item value="if" priority="3" />
+      <Item value="name" priority="1" />
+      <Item value="textBoxMatricNumber" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="string" priority="6" />
+      <Item value="AttendanceTable" priority="1" />
+      <Item value="attendanceTable" priority="1" />
+      <Item value="date" priority="2" />
+      <Item value="matricNumber" priority="5" />
+      <Item value="labelAttendance" priority="0" />
+      <Item value="DataGridParentRowsLabelStyle`0" priority="0" />
+      <Item value="Single`0" priority="1" />
+      <Item value="String`0" priority="2" />
+      <Item value="Student" priority="1" />
+      <Item value="DynamicModel`0" priority="0" />
+      <Item value="AttendanceTable`0" priority="2" />
+      <Item value="where" priority="1" />
+      <Item value="attendance" priority="5" />
+      <Item value="comboBoxDate" priority="2" />
+      <Item value="foreach" priority="1" />
+      <Item value="in" priority="1" />
+      <Item value="at" priority="1" />
+      <Item value="dict" priority="2" />
+      <Item value="else" priority="0" />
+      <Item value="uniquedate" priority="0" />
+      <Item value="ComboBox`0" priority="0" />
+      <Item value="attendanceByDate" priority="1" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="_items" priority="0" />
+      <Item value="dateTime" priority="0" />
+      <Item value="header" priority="0" />
+      <Item value="AllStudentRecord`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MultiFaceRec.FrmPrincipal">
+      <Item value="Hide`0" priority="4" />
+      <Item value="Show`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MultiFaceRec.RegisterFace">
+      <Item value="Show`0" priority="0" />
+      <Item value="ShowDialog`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MultiFaceRec.Attendance">
+      <Item value="ShowDialog`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MultiFaceRec.StudentTable">
+      <Item value="RegisterStudent`0" priority="0" />
+      <Item value="GetStudentName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToShortDateString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="SelectedItem" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MultiFaceRec.AllStudentRecord">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:RegisterFace.Designer.cs" caret="0" fromTop="0" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:app.config" caret="328" fromTop="5" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:RegisterFace.cs" caret="8385" fromTop="19" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:Attendance.cs" caret="4735" fromTop="8" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:AttendanceTable.cs" caret="403" fromTop="16" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:StudentTable.cs" caret="476" fromTop="15" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:Massive.Sqlite.cs" caret="9029" fromTop="9" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="3286" fromTop="17" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:AllStudentRecord.cs" caret="1607" fromTop="24" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:AttendanceTable.cs" caret="865" fromTop="26" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:AttendanceTable.cs" caret="494" fromTop="16" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:StudentTable.cs" caret="0" fromTop="0" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="322" fromTop="4" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="402" fromTop="16" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="586" fromTop="17" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="770" fromTop="19" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="1562" fromTop="21" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="3490" fromTop="16" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="1040" fromTop="12" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="1516" fromTop="27" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="1514" fromTop="23" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="933" fromTop="6" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="1514" fromTop="18" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="1439" fromTop="16" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="1514" fromTop="18" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="1159" fromTop="9" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="2310" fromTop="15" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="2309" fromTop="4" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="2325" fromTop="18" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="1887" fromTop="9" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="2325" fromTop="20" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="3089" fromTop="20" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="3490" fromTop="17" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="3384" fromTop="17" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:MainForm.cs" caret="3490" fromTop="17" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:AllStudentRecord.cs" caret="1114" fromTop="22" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:AllStudentRecord.cs" caret="694" fromTop="10" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:AllStudentRecord.cs" caret="1607" fromTop="24" />
+      <File id="CC813884-5D90-4044-9571-8FB7C54D9612/f:AllStudentRecord.cs" caret="1948" fromTop="24" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

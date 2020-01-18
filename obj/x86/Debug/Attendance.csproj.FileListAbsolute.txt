@@ -1,0 +1,221 @@
+C:\Users\Hana\Desktop\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Hana\Desktop\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\Hana\Desktop\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\Hana\Desktop\FaceRecProOV\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hana\Desktop\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\Hana\Desktop\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Hana\Desktop\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\Hana\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\Hana\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Hana\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Hana\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Users\Hana\Desktop\FaceRecProOV\obj\x86\Debug\Attendance.csproj.GenerateResource.Cache
+C:\Users\Hana\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Hana\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Hana\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Users\Hana\Desktop\FaceRecProOV\obj\x86\Debug\Attendance.csprojResolveAssemblyReference.cache
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\bin\Debug\MultiFaceRec.exe
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\bin\Debug\MultiFaceRec.pdb
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\bin\Debug\Emgu.CV.xml
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\bin\Debug\Emgu.Util.xml
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\obj\x86\Debug\Attendance.csprojResolveAssemblyReference.cache
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\obj\x86\Debug\Attendance.csproj.GenerateResource.Cache
+C:\Users\Wasx\Desktop\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.exe
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\bin\Debug\MultiFaceRec.exe.config
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.exe
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.pdb
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\bin\Debug\MultiFaceRec.exe
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\bin\Debug\MultiFaceRec.pdb
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\bin\Debug\Emgu.CV.dll
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\bin\Debug\Emgu.CV.UI.dll
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\bin\Debug\Emgu.Util.dll
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\bin\Debug\System.Data.SQLite.dll
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\bin\Debug\Emgu.CV.xml
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\bin\Debug\Emgu.CV.UI.xml
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\bin\Debug\Emgu.Util.xml
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\MY FILES\OTHER WASX\App\New folder (2)\attendance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\bin\Debug\MultiFaceRec.exe.config
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\bin\Debug\MultiFaceRec.exe
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\bin\Debug\MultiFaceRec.pdb
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\bin\Debug\System.Data.SQLite.dll
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\bin\Debug\Emgu.CV.xml
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\bin\Debug\Emgu.CV.UI.xml
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\bin\Debug\Emgu.Util.xml
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\jegbaby\Desktop\Files\Soft\attendance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Proffwasx\My Files\Soft\attendance\bin\Debug\MultiFaceRec.exe.config
+C:\Proffwasx\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.exe
+C:\Proffwasx\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.pdb
+C:\Proffwasx\My Files\Soft\attendance\bin\Debug\MultiFaceRec.exe
+C:\Proffwasx\My Files\Soft\attendance\bin\Debug\MultiFaceRec.pdb
+C:\Proffwasx\My Files\Soft\attendance\bin\Debug\System.Data.SQLite.dll
+C:\Proffwasx\My Files\Soft\attendance\bin\Debug\Emgu.CV.xml
+C:\Proffwasx\My Files\Soft\attendance\bin\Debug\Emgu.CV.UI.xml
+C:\Proffwasx\My Files\Soft\attendance\bin\Debug\Emgu.Util.xml
+C:\Proffwasx\My Files\Soft\attendance\obj\x86\Debug\Attendance.csprojResolveAssemblyReference.cache
+C:\Proffwasx\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Proffwasx\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Proffwasx\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Proffwasx\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Proffwasx\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Proffwasx\My Files\Soft\attendance\obj\x86\Debug\Attendance.csproj.GenerateResource.Cache
+F:\Proffwasx\Music\My Files\Soft\attendance\bin\Debug\MultiFaceRec.exe.config
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.exe
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.pdb
+F:\Proffwasx\Music\My Files\Soft\attendance\bin\Debug\MultiFaceRec.exe
+F:\Proffwasx\Music\My Files\Soft\attendance\bin\Debug\MultiFaceRec.pdb
+F:\Proffwasx\Music\My Files\Soft\attendance\bin\Debug\System.Data.SQLite.dll
+F:\Proffwasx\Music\My Files\Soft\attendance\bin\Debug\Emgu.CV.xml
+F:\Proffwasx\Music\My Files\Soft\attendance\bin\Debug\Emgu.CV.UI.xml
+F:\Proffwasx\Music\My Files\Soft\attendance\bin\Debug\Emgu.Util.xml
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Proffwasx\Music\My Files\Soft\attendance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PROFFWASX\Desktop\attendance\bin\Debug\MultiFaceRec.exe.config
+C:\Users\PROFFWASX\Desktop\attendance\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\PROFFWASX\Desktop\attendance\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\PROFFWASX\Desktop\attendance\bin\Debug\MultiFaceRec.exe
+C:\Users\PROFFWASX\Desktop\attendance\bin\Debug\MultiFaceRec.pdb
+C:\Users\PROFFWASX\Desktop\attendance\bin\Debug\System.Data.SQLite.dll
+C:\Users\PROFFWASX\Desktop\attendance\bin\Debug\Emgu.CV.xml
+C:\Users\PROFFWASX\Desktop\attendance\bin\Debug\Emgu.CV.UI.xml
+C:\Users\PROFFWASX\Desktop\attendance\bin\Debug\Emgu.Util.xml
+C:\Users\PROFFWASX\Desktop\attendance\obj\x86\Debug\Attendance.csprojResolveAssemblyReference.cache
+C:\Users\PROFFWASX\Desktop\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Users\PROFFWASX\Desktop\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\PROFFWASX\Desktop\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\PROFFWASX\Desktop\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\PROFFWASX\Desktop\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Users\PROFFWASX\Desktop\attendance\obj\x86\Debug\Attendance.csproj.GenerateResource.Cache
+C:\Users\PROFFWASX\Desktop\My Files\attendance\bin\Debug\MultiFaceRec.exe.config
+C:\Users\PROFFWASX\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\PROFFWASX\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\PROFFWASX\Desktop\My Files\attendance\bin\Debug\MultiFaceRec.exe
+C:\Users\PROFFWASX\Desktop\My Files\attendance\bin\Debug\MultiFaceRec.pdb
+C:\Users\PROFFWASX\Desktop\My Files\attendance\bin\Debug\System.Data.SQLite.dll
+C:\Users\PROFFWASX\Desktop\My Files\attendance\bin\Debug\Emgu.CV.xml
+C:\Users\PROFFWASX\Desktop\My Files\attendance\bin\Debug\Emgu.CV.UI.xml
+C:\Users\PROFFWASX\Desktop\My Files\attendance\bin\Debug\Emgu.Util.xml
+C:\Users\PROFFWASX\Desktop\My Files\attendance\obj\x86\Debug\Attendance.csprojResolveAssemblyReference.cache
+C:\Users\PROFFWASX\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Users\PROFFWASX\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\PROFFWASX\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\PROFFWASX\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\PROFFWASX\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Users\PROFFWASX\Desktop\My Files\attendance\obj\x86\Debug\Attendance.csproj.GenerateResource.Cache
+C:\Users\THANKGOD\Desktop\My Files\attendance\bin\Debug\MultiFaceRec.exe.config
+C:\Users\THANKGOD\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\THANKGOD\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\THANKGOD\Desktop\My Files\attendance\bin\Debug\MultiFaceRec.exe
+C:\Users\THANKGOD\Desktop\My Files\attendance\bin\Debug\MultiFaceRec.pdb
+C:\Users\THANKGOD\Desktop\My Files\attendance\bin\Debug\System.Data.SQLite.dll
+C:\Users\THANKGOD\Desktop\My Files\attendance\bin\Debug\Emgu.CV.xml
+C:\Users\THANKGOD\Desktop\My Files\attendance\bin\Debug\Emgu.CV.UI.xml
+C:\Users\THANKGOD\Desktop\My Files\attendance\bin\Debug\Emgu.Util.xml
+C:\Users\THANKGOD\Desktop\My Files\attendance\obj\x86\Debug\Attendance.csprojResolveAssemblyReference.cache
+C:\Users\THANKGOD\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Users\THANKGOD\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\THANKGOD\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\THANKGOD\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\THANKGOD\Desktop\My Files\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Users\THANKGOD\Desktop\My Files\attendance\obj\x86\Debug\Attendance.csproj.GenerateResource.Cache
+C:\Users\THANKGOD\Desktop\attendance\bin\Debug\MultiFaceRec.exe.config
+C:\Users\THANKGOD\Desktop\attendance\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\THANKGOD\Desktop\attendance\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\THANKGOD\Desktop\attendance\bin\Debug\MultiFaceRec.exe
+C:\Users\THANKGOD\Desktop\attendance\bin\Debug\MultiFaceRec.pdb
+C:\Users\THANKGOD\Desktop\attendance\bin\Debug\System.Data.SQLite.dll
+C:\Users\THANKGOD\Desktop\attendance\bin\Debug\Emgu.CV.xml
+C:\Users\THANKGOD\Desktop\attendance\bin\Debug\Emgu.CV.UI.xml
+C:\Users\THANKGOD\Desktop\attendance\bin\Debug\Emgu.Util.xml
+C:\Users\THANKGOD\Desktop\attendance\obj\x86\Debug\Attendance.csprojResolveAssemblyReference.cache
+C:\Users\THANKGOD\Desktop\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Users\THANKGOD\Desktop\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\THANKGOD\Desktop\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\THANKGOD\Desktop\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\THANKGOD\Desktop\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Users\THANKGOD\Desktop\attendance\obj\x86\Debug\Attendance.csproj.GenerateResource.Cache
+C:\Users\THANKGOD\Desktop\Project\attendance\bin\Debug\MultiFaceRec.exe.config
+C:\Users\THANKGOD\Desktop\Project\attendance\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\THANKGOD\Desktop\Project\attendance\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\THANKGOD\Desktop\Project\attendance\bin\Debug\MultiFaceRec.exe
+C:\Users\THANKGOD\Desktop\Project\attendance\bin\Debug\MultiFaceRec.pdb
+C:\Users\THANKGOD\Desktop\Project\attendance\bin\Debug\System.Data.SQLite.dll
+C:\Users\THANKGOD\Desktop\Project\attendance\bin\Debug\Emgu.CV.xml
+C:\Users\THANKGOD\Desktop\Project\attendance\bin\Debug\Emgu.CV.UI.xml
+C:\Users\THANKGOD\Desktop\Project\attendance\bin\Debug\Emgu.Util.xml
+C:\Users\THANKGOD\Desktop\Project\attendance\obj\x86\Debug\Attendance.csprojResolveAssemblyReference.cache
+C:\Users\THANKGOD\Desktop\Project\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Users\THANKGOD\Desktop\Project\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\THANKGOD\Desktop\Project\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\THANKGOD\Desktop\Project\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\THANKGOD\Desktop\Project\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Users\THANKGOD\Desktop\Project\attendance\obj\x86\Debug\Attendance.csproj.GenerateResource.Cache
+C:\Users\OSIRIS\Documents\attendance\bin\Debug\MultiFaceRec.exe.config
+C:\Users\OSIRIS\Documents\attendance\bin\Debug\MultiFaceRec.exe
+C:\Users\OSIRIS\Documents\attendance\bin\Debug\MultiFaceRec.pdb
+C:\Users\OSIRIS\Documents\attendance\bin\Debug\System.Data.SQLite.dll
+C:\Users\OSIRIS\Documents\attendance\bin\Debug\Emgu.CV.xml
+C:\Users\OSIRIS\Documents\attendance\bin\Debug\Emgu.CV.UI.xml
+C:\Users\OSIRIS\Documents\attendance\bin\Debug\Emgu.Util.xml
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\Attendance.csprojAssemblyReference.cache
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\Attendance.csproj.GenerateResource.cache
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\Attendance.csproj.CoreCompileInputs.cache
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\Attendance.csproj.CopyComplete
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\OSIRIS\Documents\attendance\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\OSIRIS\Desktop\attendance\bin\Debug\MultiFaceRec.exe.config
+C:\Users\OSIRIS\Desktop\attendance\bin\Debug\MultiFaceRec.exe
+C:\Users\OSIRIS\Desktop\attendance\bin\Debug\MultiFaceRec.pdb
+C:\Users\OSIRIS\Desktop\attendance\bin\Debug\System.Data.SQLite.dll
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\Attendance.csprojAssemblyReference.cache
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\MultiFaceRec.AllStudentRecord.resources
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\MultiFaceRec.RegisterFace.resources
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\Attendance.csproj.GenerateResource.cache
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\Attendance.csproj.CoreCompileInputs.cache
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\Attendance.csproj.CopyComplete
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\OSIRIS\Desktop\attendance\obj\x86\Debug\MultiFaceRec.pdb
